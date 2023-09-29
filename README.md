@@ -24,7 +24,9 @@ I'm a Software Engineer and Community Manager based in Bangalore, India.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chintanp325)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanp325&show_icons=true&theme=gruvbox)
+![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanp325&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chintanp325)]
 
 
 xyz
