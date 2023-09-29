@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Chintan 👋
 
 <!--
 **chintanp325/chintanp325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+BIO
+I'm a Software Engineer and Community Manager based in Bangalore, India.
+⚙️ I use daily: C,C++,JavaScript,Python,Github
