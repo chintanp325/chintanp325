@@ -22,8 +22,7 @@ I'm a Software Engineer and Community Manager based in Bangalore, India.
 
 ⚙️ I use daily: C, C++, JavaScript, Python, Github
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chintanp325)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chintanp325)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanp325&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintanp325&show_icons=true&theme=gruvbox)]
 xyz
