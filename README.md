@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 BIO
 
-I'm a Software Engineer and Community Manager based in Bangalore, India.
+I'm a Software Engineer based in Bangalore, India.
 
 ⚙️ I use daily: C, C++, JavaScript, Python, Github
 
